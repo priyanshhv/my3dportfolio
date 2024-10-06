@@ -51,10 +51,6 @@ const services = [
     icon: web,
   },
   {
-    title: "Android Developer",
-    icon: mobile,
-  },
-  {
     title: "Backend Developer",
     icon: backend,
   },
@@ -127,15 +123,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Frontend Developer",
-    company_name: "NIC_MoWCD",
+    title: "Java Backend Intern",
+    company_name: "LG CNS",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "May 2022 - July 2022",
+    date: "May 2024 - July 2024",
     points: [
-      "Developed and maintained the frontend of the Mission Vatsalya Portal, a web portal for the welfare of children in difficult circumstances.",
-      "Implemented new features and bug fixes.",
-      "Collaborated with other interns and engineers to deliver high- quality work.",
+      "Tasked with enhancing the operational efficiency and user experience of a laundry service.",
+      "We developed an API, implement user-friendly features, and optimize transaction processes.",
+      "Created the Laundry API, added machine viewing/reservation features, and engineered a low-cost transaction solution.",
+      "Initial tests and beta feedback indicate potential improvements in efficiency by 30% and user satisfaction."
     ],
   },
   {
